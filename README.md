@@ -31,3 +31,6 @@ El núcleo del proyecto reside en la robustez de la base de datos:
 * **Triggers:** Automatización de validaciones y actualizaciones de estado de carga.
 * **Procedimientos:** Encapsulamiento de la lógica de negocio para garantizar la consistencia de los reportes.
 * **Seguridad:** Módulo de autenticación y control de sesiones por usuario.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Base de Datos**.
